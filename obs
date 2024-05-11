@@ -1,0 +1,8 @@
+# Clientes de contrato mensal, sempre cancelam
+    #Podemos dar descontos para os contratos anuais e trimestrais
+
+#Clientes com mais de 4 ligações na callCenter, tem probabilidade de cancelamento
+    #Desenvolver algum alerta para ligação do cliente, ou conversação no whatsapp, assim o suporte terá todas as mensagens dos clientes e nao deixara atendimento do cliente de fora.
+
+#Se o cliente atrasar mais de 20 dias do pagamento, o cliente tem alta probabilidade de cancelar.
+    #Desenvolver alerta nos dias antes do cancelamento para cliente nao esquecer
